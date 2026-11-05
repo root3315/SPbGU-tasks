@@ -32,6 +32,11 @@ SPbGU-tasks/
 │   ├── materials/
 │   ├── python/
 │   └── cpp/
+├── task-01-14-loops/
+│   ├── assignment.md
+│   ├── materials/
+│   ├── python/
+│   └── cpp/
 ├── .gitignore
 └── README.md
 ```
@@ -57,6 +62,16 @@ SPbGU-tasks/
 - Отдельные решения `task_01`–`task_15` лежат в папках `python/` и `cpp/`. Файл `solution` открывает меню с выбором задачи.
 - Исходное задание: [assignment-source.docx](task-01-15-basics/materials/assignment-source.docx)
 - [Пример оформления](task-01-15-basics/materials/examples.docx)
+
+### Программирование · выбор, циклы и таблицы
+
+В [условии](task-01-14-loops/assignment.md) собраны четырнадцать программ: печать фото и заправка, таблицы квадратов, скорости, кредита, температур и степеней двойки, суммы рядов, факториал и обработка последовательностей. В конце условия перечислено, чем оно отличается от исходного файла.
+
+- [Решение на Python](task-01-14-loops/python/solution.py)
+- [Решение на C++](task-01-14-loops/cpp/solution.cpp)
+- Отдельные решения `task_01`–`task_14` лежат в папках `python/` и `cpp/`. Файл `solution` открывает меню с выбором задачи.
+- Исходное задание: [assignment-source.docx](task-01-14-loops/materials/assignment-source.docx)
+- [Пример оформления](task-01-14-loops/materials/examples.docx)
 
 ## Запуск решений
 

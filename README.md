@@ -27,6 +27,11 @@ SPbGU-tasks/
 │       ├── solution.cpp
 │       ├── task_01.cpp
 │       └── ... task_08.cpp
+├── task-01-15-basics/
+│   ├── assignment.md
+│   ├── materials/
+│   ├── python/
+│   └── cpp/
 ├── .gitignore
 └── README.md
 ```
@@ -42,6 +47,16 @@ SPbGU-tasks/
 - Отдельные решения `task_01`–`task_08` лежат в папках `python/` и `cpp/`.
 - Исходное задание: [assignment-source.docx](task-01-08-records/materials/assignment-source.docx)
 - [Примеры](task-01-08-records/materials/examples.docx)
+
+### Программирование · линейные программы и ветвление
+
+В [условии](task-01-15-basics/assignment.md) собраны пятнадцать небольших программ: вклады, перевод единиц, сопротивление и ток, площадь кольца, високосный год, квадратное уравнение и скидки. В конце условия перечислено, чем оно отличается от исходного файла.
+
+- [Решение на Python](task-01-15-basics/python/solution.py)
+- [Решение на C++](task-01-15-basics/cpp/solution.cpp)
+- Отдельные решения `task_01`–`task_15` лежат в папках `python/` и `cpp/`. Файл `solution` открывает меню с выбором задачи.
+- Исходное задание: [assignment-source.docx](task-01-15-basics/materials/assignment-source.docx)
+- [Пример оформления](task-01-15-basics/materials/examples.docx)
 
 ## Запуск решений
 

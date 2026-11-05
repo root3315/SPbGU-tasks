@@ -51,7 +51,8 @@ int main() {
     }
 
     cout << "Для завершения нажмите Enter";
-    cin.get();
+    string pause;
+    getline(cin, pause);
 
     return 0;
 }

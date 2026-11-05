@@ -316,7 +316,8 @@ void task11() {
     }
 
     cout << "Для завершения нажмите Enter";
-    cin.get();
+    string pause;
+    getline(cin, pause);
 }
 
 // Задача 12. Високосный год
@@ -341,7 +342,8 @@ void task12() {
     }
 
     cout << "Для завершения нажмите Enter";
-    cin.get();
+    string pause;
+    getline(cin, pause);
 }
 
 // Задача 13. Квадратное уравнение

@@ -41,6 +41,10 @@ SPbGU-tasks/
 │   ├── assignment.md
 │   ├── python/
 │   └── cpp/
+├── control-06-coffee-machine/
+│   ├── assignment.md
+│   ├── python/
+│   └── cpp/
 ├── .gitignore
 └── README.md
 ```
@@ -83,6 +87,13 @@ SPbGU-tasks/
 
 - [Решение на Python](control-06-time/python/solution.py)
 - [Решение на C++](control-06-time/cpp/solution.cpp)
+
+### Текущий контроль · класс «Кофейный автомат»
+
+В [условии](control-06-coffee-machine/assignment.md) нужно описать кофемашину с запасом воды и зерен и методы заправки, приготовления напитка и проверки остатка. Если ресурсов не хватает, напиток не готовится, а при заправке лишнее сверх объема не добавляется.
+
+- [Решение на Python](control-06-coffee-machine/python/solution.py)
+- [Решение на C++](control-06-coffee-machine/cpp/solution.cpp)
 
 ## Запуск решений
 

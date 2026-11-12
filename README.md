@@ -37,6 +37,10 @@ SPbGU-tasks/
 │   ├── materials/
 │   ├── python/
 │   └── cpp/
+├── control-06-time/
+│   ├── assignment.md
+│   ├── python/
+│   └── cpp/
 ├── .gitignore
 └── README.md
 ```
@@ -72,6 +76,13 @@ SPbGU-tasks/
 - Отдельные решения `task_01`–`task_14` лежат в папках `python/` и `cpp/`. Файл `solution` открывает меню с выбором задачи.
 - Исходное задание: [assignment-source.docx](task-01-14-loops/materials/assignment-source.docx)
 - [Пример оформления](task-01-14-loops/materials/examples.docx)
+
+### Текущий контроль · класс «Время»
+
+В [условии](control-06-time/assignment.md) нужно описать класс с часами, минутами и секундами и методы добавления секунд и минут с переносом: 65 секунд дают 1 минуту и 5 секунд, после 23:59:59 время идёт с 00:00:00.
+
+- [Решение на Python](control-06-time/python/solution.py)
+- [Решение на C++](control-06-time/cpp/solution.cpp)
 
 ## Запуск решений
 

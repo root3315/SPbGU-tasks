@@ -37,6 +37,16 @@ SPbGU-tasks/
 │   ├── materials/
 │   ├── python/
 │   └── cpp/
+├── task-01-14-random-arrays/
+│   ├── assignment.md
+│   ├── materials/
+│   ├── python/
+│   └── cpp/
+├── task-01-14-strings-files/
+│   ├── assignment.md
+│   ├── materials/
+│   ├── python/
+│   └── cpp/
 ├── control-06-time/
 │   ├── assignment.md
 │   ├── python/
@@ -80,6 +90,27 @@ SPbGU-tasks/
 - Отдельные решения `task_01`–`task_14` лежат в папках `python/` и `cpp/`. Файл `solution` открывает меню с выбором задачи.
 - Исходное задание: [assignment-source.docx](task-01-14-loops/materials/assignment-source.docx)
 - [Пример оформления](task-01-14-loops/materials/examples.docx)
+
+### Программирование · случайные числа, циклы и массивы
+
+В [условии](task-01-14-random-arrays/assignment.md) собраны четырнадцать программ: случайные последовательности, таблицы стоимости и температур, сумма, максимум и минимум последовательности до нуля, простое число, игра «Угадай число», вычисление Пи и обработка массивов. В конце условия перечислено, чем оно отличается от исходного файла.
+
+- [Решение на Python](task-01-14-random-arrays/python/solution.py)
+- [Решение на C++](task-01-14-random-arrays/cpp/solution.cpp)
+- Отдельные решения `task_01`–`task_14` лежат в папках `python/` и `cpp/`. Файл `solution` открывает меню с выбором задачи.
+- Исходное задание: [assignment-source.docx](task-01-14-random-arrays/materials/assignment-source.docx)
+- [Пример оформления](task-01-14-random-arrays/materials/examples.docx)
+
+### Программирование · массивы, строки и файлы
+
+В [условии](task-01-14-strings-files/assignment.md) собраны четырнадцать программ: средняя температура, слияние массивов, рост учеников, результаты экзамена, массив 3×5, работа со строками и кодами символов, системы счисления и телефонный справочник в файле `contacts.txt`. В конце условия перечислено, чем оно отличается от исходного файла.
+
+- [Решение на Python](task-01-14-strings-files/python/solution.py)
+- [Решение на C++](task-01-14-strings-files/cpp/solution.cpp)
+- Отдельные решения `task_01`–`task_14` лежат в папках `python/` и `cpp/`. Файл `solution` открывает меню с выбором задачи.
+- Задачи 12 и 13 создают `contacts.txt` в папке, из которой запущена программа. Файл в репозиторий не попадает.
+- Исходное задание: [assignment-source.docx](task-01-14-strings-files/materials/assignment-source.docx)
+- [Пример оформления](task-01-14-strings-files/materials/examples.docx)
 
 ### Текущий контроль · класс «Время»
 

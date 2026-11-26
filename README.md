@@ -52,6 +52,11 @@ SPbGU-tasks/
 │   ├── materials/
 │   ├── python/
 │   └── cpp/
+├── task-01-14-datetime/
+│   ├── assignment.md
+│   ├── materials/
+│   ├── python/
+│   └── cpp/
 ├── control-06-time/
 │   ├── assignment.md
 │   ├── python/
@@ -126,6 +131,16 @@ SPbGU-tasks/
 - Отдельные решения `task_01`–`task_08` лежат в папках `python/` и `cpp/`. Файл `solution` открывает меню с выбором задачи.
 - Исходное задание: [assignment-source.docx](task-01-08-structs/materials/assignment-source.docx)
 - [Пример решения задачи 8](task-01-08-structs/materials/examples.docx)
+
+### Программирование · дата и время
+
+В [условии](task-01-14-datetime/assignment.md) 14 вариантов по две задачи: сравнение и разбор дат, форматирование времени, день недели, високосный год, а также прикладные расчёты: батарея ноутбука, пакет связи, срок давности, расписание процедур, стоимость звонка, срок годности, телепередача, посудомойка, день рождения, табло вокзала, выборы и перенос праздника. В конце условия перечислено, чем оно отличается от исходного файла.
+
+- [Решение на Python](task-01-14-datetime/python/solution.py)
+- [Решение на C++](task-01-14-datetime/cpp/solution.cpp)
+- Файл `task_NN` решает обе задачи варианта NN, `solution` открывает меню с выбором варианта.
+- Исходное задание: [assignment-source.docx](task-01-14-datetime/materials/assignment-source.docx)
+- [Пример решения варианта 14](task-01-14-datetime/materials/examples.docx)
 
 ### Текущий контроль · класс «Время»
 

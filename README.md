@@ -47,6 +47,11 @@ SPbGU-tasks/
 │   ├── materials/
 │   ├── python/
 │   └── cpp/
+├── task-01-08-structs/
+│   ├── assignment.md
+│   ├── materials/
+│   ├── python/
+│   └── cpp/
 ├── control-06-time/
 │   ├── assignment.md
 │   ├── python/
@@ -111,6 +116,16 @@ SPbGU-tasks/
 - Задачи 12 и 13 создают `contacts.txt` в папке, из которой запущена программа. Файл в репозиторий не попадает.
 - Исходное задание: [assignment-source.docx](task-01-14-strings-files/materials/assignment-source.docx)
 - [Пример оформления](task-01-14-strings-files/materials/examples.docx)
+
+### Программирование · описание объектов структурами
+
+[Условие](task-01-08-structs/assignment.md) повторяет задание об описании объектов, но во второй задаче вместо манекенщицы студент. Каждый объект описан структурой (в Python — dataclass), дата рождения и адрес вынесены в отдельные структуры. В конце условия перечислено, чем оно отличается от исходного файла.
+
+- [Решение на Python](task-01-08-structs/python/solution.py)
+- [Решение на C++](task-01-08-structs/cpp/solution.cpp)
+- Отдельные решения `task_01`–`task_08` лежат в папках `python/` и `cpp/`. Файл `solution` открывает меню с выбором задачи.
+- Исходное задание: [assignment-source.docx](task-01-08-structs/materials/assignment-source.docx)
+- [Пример решения задачи 8](task-01-08-structs/materials/examples.docx)
 
 ### Текущий контроль · класс «Время»
 
